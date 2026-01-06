@@ -1,0 +1,1 @@
+INFO     root:test_login.py:32 {"code":404,"message":"usernamemust not be empty","data":null}

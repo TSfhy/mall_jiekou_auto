@@ -1,0 +1,1 @@
+INFO     root:test_login.py:32 {"code":200,"message":"操作成功","data":{"tokenHead":"Bearer ","token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImNyZWF0ZWQiOjE3Njc0ODYxMjI3ODYsImV4cCI6MTc2ODA5MDkyMn0.SAEfKY7-Tuh-OOO4dM-cPSxUyoajxvugUd0gMuPF9s5uLaoIbcXJ7-W8nqjFGiIavIdLqvqp2NNJ0txr2LmvWA"}}
